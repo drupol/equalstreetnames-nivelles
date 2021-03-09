@@ -3,7 +3,7 @@
 declare(strict_types=1);
 
 return [
-    'relationId' => 1949374,
+    'relationId' => 1149724,
 
     'languages' => ['de', 'en', 'fr', 'nl'],
 
